@@ -7,6 +7,7 @@ import android.view.View;
 
 import com.kerchin.demo.providerandbroadcast.Broadcast.BroadcastActivity;
 import com.kerchin.demo.providerandbroadcast.ContentProvider.ContentProviderActivity;
+import com.kerchin.demo.providerandbroadcast.Service.ServiceActivity;
 
 /**
  * Created by Kerchin on 2016/7/13 0013.
@@ -28,5 +29,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Service(View v) {
+        startActivity(new Intent(this, ServiceActivity.class));
     }
 }

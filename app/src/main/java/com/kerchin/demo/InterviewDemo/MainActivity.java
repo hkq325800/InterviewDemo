@@ -1,13 +1,13 @@
-package com.kerchin.demo.providerandbroadcast;
+package com.kerchin.demo.InterviewDemo;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.kerchin.demo.providerandbroadcast.Broadcast.BroadcastActivity;
-import com.kerchin.demo.providerandbroadcast.ContentProvider.ContentProviderActivity;
-import com.kerchin.demo.providerandbroadcast.Service.ServiceActivity;
+import com.kerchin.demo.InterviewDemo.Broadcast.BroadcastActivity;
+import com.kerchin.demo.InterviewDemo.ContentProvider.ContentProviderActivity;
+import com.kerchin.demo.InterviewDemo.Service.ServiceActivity;
 
 /**
  * Created by Kerchin on 2016/7/13 0013.

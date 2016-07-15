@@ -1,4 +1,4 @@
-package com.kerchin.demo.providerandbroadcast.Service;
+package com.kerchin.demo.InterviewDemo.Service;
 
 import android.app.Activity;
 import android.app.Service;
@@ -10,7 +10,7 @@ import android.os.IBinder;
 import android.util.Log;
 import android.view.View;
 
-import com.kerchin.demo.providerandbroadcast.R;
+import com.kerchin.demo.InterviewDemo.R;
 
 /**
  * Created by Kerchin on 2016/7/14 0014.

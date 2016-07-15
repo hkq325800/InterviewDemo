@@ -1,4 +1,4 @@
-package com.kerchin.demo.providerandbroadcast.Broadcast;
+package com.kerchin.demo.InterviewDemo.Broadcast;
 
 import android.content.Intent;
 import android.content.IntentFilter;
@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.kerchin.demo.providerandbroadcast.R;
+import com.kerchin.demo.InterviewDemo.R;
 
 public class BroadcastActivity extends AppCompatActivity {
 

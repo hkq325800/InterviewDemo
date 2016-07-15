@@ -1,4 +1,4 @@
-package com.kerchin.demo.providerandbroadcast.ContentProvider;
+package com.kerchin.demo.InterviewDemo.ContentProvider;
 
 import android.content.ContentResolver;
 import android.content.ContentUris;
@@ -12,7 +12,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 
-import com.kerchin.demo.providerandbroadcast.R;
+import com.kerchin.demo.InterviewDemo.R;
 
 /**
  * Created by Kerchin on 2016/7/13 0013.
@@ -22,7 +22,7 @@ public class ContentProviderActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_content_provider);
+        setContentView(R.layout.activity_contentprovider);
     }
 
     private void addContacts(View view) {

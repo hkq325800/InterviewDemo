@@ -1,4 +1,4 @@
-package com.kerchin.demo.providerandbroadcast.Service;
+package com.kerchin.demo.InterviewDemo.Service;
 
 import android.app.Service;
 import android.content.Intent;

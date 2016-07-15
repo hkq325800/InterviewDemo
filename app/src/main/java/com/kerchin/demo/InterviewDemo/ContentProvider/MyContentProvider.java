@@ -1,4 +1,4 @@
-package com.kerchin.demo.providerandbroadcast.ContentProvider;
+package com.kerchin.demo.InterviewDemo.ContentProvider;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;
